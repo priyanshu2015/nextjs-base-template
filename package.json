@@ -10,8 +10,12 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@fortawesome/free-solid-svg-icons": "^6.6.0",
+    "@fortawesome/react-fontawesome": "^0.2.2",
     "@headlessui/react": "^2.1.2",
+    "@react-oauth/google": "^0.12.1",
     "axios": "^1.7.2",
+    "lottie-react": "^2.4.0",
     "next": "^14.2.5",
     "next-sitemap": "^4.2.3",
     "next-themes": "^0.3.0",

@@ -9,7 +9,7 @@ const ProtectRoute = ({ children }) => {
 
     useEffect(() =>{
         // redirect to login page if accessing a private page and not logged in
-        let publicPaths = ["", "/", "/privacy-policy", "/terms-conditions"];
+        let publicPaths = ["", "/", "/privacy-policy", "/terms-conditions", "/auth/login", "/auth/signup", "/auth/forgot_password", "/[username]", "/roadmaps/[uuid]/preview", "/auth/reset/[uidb64]/[token]", "/auth/activate/[uidb64]/[token]"];
 
         const path = router.pathname.split("?")[0];
 
