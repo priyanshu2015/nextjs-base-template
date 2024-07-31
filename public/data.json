@@ -1,0 +1,18 @@
+{
+    "colors": [
+        { "name": "SLATE_BLUE", "hex": "#5e6ad2" },
+        { "name": "FIRE_ENGINE_RED", "hex": "#c52828" },
+        { "name": "FIRE_OPAL", "hex": "#eb5757" },
+        { "name": "BABY_PINK", "hex": "#f7c8c1" },
+        { "name": "CHOCOLATE", "hex": "#db6e1f" },
+        { "name": "ROYAL_ORANGE", "hex": "#f2994a" },
+        { "name": "PINEAPPLE", "hex": "#5a450d" },
+        { "name": "MAIZE", "hex": "#f2c94c" },
+        { "name": "DARK_SPRING_GREEN", "hex": "#0f783c" },
+        { "name": "MINT", "hex": "#4cb782" },
+        { "name": "METALLIC_SEAWEED", "hex": "#0f7488" },
+        { "name": "MAXIMUM_BLUE", "hex": "#4ea7cf" },
+        { "name": "BALL_BLUE", "hex": "#26b5ce" },
+        { "name": "WATER", "hex": "#d3eef3" }
+    ]
+}
